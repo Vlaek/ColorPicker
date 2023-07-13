@@ -52,4 +52,7 @@ body {
     body {
         flex-direction: column;
     }
+    .col {
+        flex-direction: row;
+    }
 }
